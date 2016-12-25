@@ -2,11 +2,10 @@
 
 This is a comprehensive list of resources to help a developer go from Node.js novice to professional ready to slay the dragon that is Communicode development. Hopefully you enjoy yourself along the way. It's pretty fun.
 
-The tutorials are separated into three groups: 
+The tutorials are separated into two groups: 
 
  1. Text/Articles
  2. Video Tutorials
- 3. (Free!) Courses
 
 Choose which ever one suits you best. Or do all of them. Doesn't matter to me. 
 
@@ -15,14 +14,13 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
  - [START HERE](#starthere)
  - [New to Javascript entirely?](#newtojs)
  - [*Node.js through Articles*](#nodethrougharticles)
-	 - [For Beginners](#beginner-articles)
-	 - [For Web Development](#webdev-articles)
-	 - [Building Applications](#buildingapps-articles)
- - *Node.js through videos*
+	 - For Beginners
+	 - For Web Development
+	 - Building Applications
+ - [*Node.js through videos*](#nodethroughvideos)
 	 - For beginners
 	 - For Web Development
 	 - Building Applications
- - *Courses for Node.js / JavaScript*
 	
 	<hr />
     <div id="starthere">
@@ -71,7 +69,35 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
 			<p>Here are some other random articles with random web dev topics to check out if you finish: </p>
 			
 			<a href="https://scotch.io/tutorials/easy-node-authentication-setup-and-local">Creating a registration and login</a>
+			<br />
+			<a href="https://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-socketio-and-expressjs--net-31708">(Super awesome) Creating a live chat</a>
+			<br />
+			<a href="http://javascript.tutorialhorizon.com/2015/07/02/send-email-node-js-express/">Emailing with Node.js</a>
 		</div>
 
-
 	</div>
+
+	<hr>
+	<div id="nodethroughvideos">
+		<h2>Learning Node through Articles</h2>
+		<p>If you like articles, here is a comprehensive list (in order from easy to hard) to help you get up to speed on everything you need to know.</p>
+
+		<div id="beginner-videos">
+			<p>A great beginners guide to the wonders of node.js, in video format!</p>
+			<a href="https://www.youtube.com/watch?v=U8XF6AFGqlc">Absolute Beginner's guide to Node.js</a> 
+			<br /><br />
+			<p>Another great beginners guide to the wonders of node.js, in video format!</p>
+			<a href="https://www.youtube.com/watch?v=U8XF6AFGqlc">Beginner's guide to Node.js</a> 
+			<br /><br />
+			<p>A GREAT intro to ExpressJS and all that stuff. Keep on learnin'</p>
+			<a href="https://www.youtube.com/watch?v=FqMIyTH9wSg">Create a simple Express App</a>
+			<br /><br />
+			<p>WATCH THIS it introduces you to MongoDB and mongoose. Basically how to work with databases.</p>
+			<a href="https://www.youtube.com/watch?v=5e1NEdfs4is">Node.js, MongoDB, Mongoose.</a>
+			<br /><br />
+			<p>Super long but SUPER informative. How to create a REST API in node.js (basically how Communicode will work)</p>
+			<a href="https://www.youtube.com/watch?v=eB9Fq9I5ocs">Creating a REST API</a>
+		</div>
+	</div>
+	
+<p>I want to stress that this isn't all that lives on the internet about node.js. There are SO many resources out there for you guys to use and SO many topics to check out. If you finish all these, keep looking!! There's some cool stuff out there. I will update this from time to time.</p>
