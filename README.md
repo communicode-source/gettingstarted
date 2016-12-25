@@ -79,7 +79,7 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
 
 	<hr>
 	<div id="nodethroughvideos">
-		<h2>Learning Node through Articles</h2>
+		<h2>Learning Node through Videos</h2>
 		<p>If you like articles, here is a comprehensive list (in order from easy to hard) to help you get up to speed on everything you need to know.</p>
 
 		<div id="beginner-videos">
