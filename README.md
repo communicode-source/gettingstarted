@@ -46,26 +46,22 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
 		<p>If you don't any experience using Javascript, have no fear, Codecademy is here to help you. Make an account (it's free!) and then click on the "Learn JavaScript" module. It will take you through everything you need to know about the language.</p>
 		<a href="https://codecademy.com/">Codecademy</a>
    </div>
-
+	<hr>
 	<div id="nodethrougharticles">
 		<h2>Learning Node through Articles</h2>
 		<p>If you like articles, here is a comprehensive list (in order from easy to hard) to help you get up to speed on everything you need to know.</p>
 
 		<div id="beginner-articles">
 			<p>A beginner's guide to the wonders of node.js. He explains a lot of the beginner ideas behind node and how to use them. <b>NOTICE</b>: when he runs his programs in the command line using "node something.js" he is cd'ing into the directory where the node program is. If you don't know what cd'ing is, then you shouldn't have skipped the command line tutorial at the beginning!!!!!!</p>
-			<br /><br />
 			<a href="https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm">Tutorial's Point Intro to Node</a> 
 			<br /><br />
 			<p>This a Github article about some of the major topics and ideas of node.js. A must read because it will help explain a lot (if not all) of the code you will see. </p>
-			<br/><br />
 			<a href="https://github.com/maxogden/art-of-node">The Art of Node</a>
 			<br /><br />
 			<p>An introduction to node.js as a web development tool. You'll be making a super simple site and you will be introduced to ExpressJS, the framework Communicode will be using.</p>
-			<br /><br />
 			<a href="https://www.codementor.io/codeforgeek/tutorials/build-website-from-scratch-using-expressjs-and-bootstrap-du107sby7">Creating a simple, static site</a>
 			<br /><br />
 			<p>This tutorial explains how to create an API. This will explain the basics of what Communicode's backend will be like: </p>
-			<br /><br />
 			<a href="https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4">Creating an API with Node.js</a>
 			<p>You are finally ready for the fun stuff. Here we make a dynamic site that interacts with a Database. This is a SUPER important lesson, so pay attention.</p>
 			Part 1: <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a simple CRUD app with Express and MongoDB</a>
