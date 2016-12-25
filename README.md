@@ -26,7 +26,7 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
 	
 	<hr />
     <div id="starthere">
-	    <h4>Installing and Configuring Node</h4>
+	    <h2>Installing and Configuring Node</h2>
 		In order to start doing some actual coding, you have to install node.js. Follow the instructions here:
 		<br /><br />
 		<a href="https://nodejs.org/en/download/package-manager">How to Install Node.js</a>
@@ -42,13 +42,13 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
 	</div>
 	
     <div id="newtojs">
-		<h4>New to Javascript entirely?</h4>
+		<h2>New to Javascript entirely?</h2>
 		<p>If you don't any experience using Javascript, have no fear, Codecademy is here to help you. Make an account (it's free!) and then click on the "Learn JavaScript" module. It will take you through everything you need to know about the language.</p>
 		<a href="https://codecademy.com/">Codecademy</a>
    </div>
 
 	<div id="nodethrougharticles">
-		<h4>Learning Node through Articles</h4>
+		<h2>Learning Node through Articles</h2>
 		<p>If you like articles, here is a comprehensive list (in order from easy to hard) to help you get up to speed on everything you need to know.</p>
 	</div>
 
