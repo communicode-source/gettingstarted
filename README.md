@@ -70,7 +70,7 @@ Choose which ever one suits you best. Or do all of them. Doesn't matter to me.
 			<br /> <br/>
 			<p>Here are some other random articles with random web dev topics to check out if you finish: </p>
 			
-			Registration and Login: <a href=""></a>
+			<a href="https://scotch.io/tutorials/easy-node-authentication-setup-and-local">Creating a registration and login</a>
 		</div>
 
 
